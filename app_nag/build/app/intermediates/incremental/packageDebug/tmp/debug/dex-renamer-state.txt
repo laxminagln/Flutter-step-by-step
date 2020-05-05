@@ -1,0 +1,4 @@
+#Mon May 04 20:44:22 IST 2020
+base.0=/home/nagln/AndroidStudioProjects/app_nag/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
